@@ -117,7 +117,7 @@ Não é possível determinar as condições de forma objetiva, pois é o modelo 
 
 
 8. Qual a garantia que o programa Insiders é melhor que o restante da base?  
-Seriam necessários testes adicionais, como testes A|B, para avaliar o resulto prático da escolha do cluster em questão. Entrentao, é possível observar que o gross revenue do cluster Insiders correspondem a 52% da receita total, contendo somente 16% do total de clientes da base.
+Seriam necessários testes adicionais, como testes A|B, para avaliar o resulto prático da escolha do cluster em questão. Entretanto, é possível observar que o gross revenue do cluster Insiders correspondem a 52% da receita total, contendo somente 16% do total de clientes da base.
 
 
 9. Quais as ações o time de marketing pode realizar para aumentar o faturamento?  
