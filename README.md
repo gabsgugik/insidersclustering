@@ -5,7 +5,7 @@
 A empresa All in One trabalha com vendas Outlet Multimarcas através de um e-commerce.
 Em pouco mais de 1 ano de operação, o time de marketing percebeu que alguns clientes
 da sua base compram produtos mais caros, com alta frequência e acabam contribuindo
-com uma parcela significativa da empresa.
+com uma parcela significativa do faturamento da empresa.
 
 Baseado nessa percepção, o time de marketing vai lançar um programa de fidelidade
 para os melhores clientes da base, chamado Insiders. Para isso foi solicitado ao 
